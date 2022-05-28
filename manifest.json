@@ -1,0 +1,16 @@
+{
+  "name": "Notes App with Coin Flip",
+  "description": "Write notes in the text box or toss a coin!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "author": "Tim Vuong",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "/images/notetaking_icon16.png",
+    "48": "/images/notetaking_icon48.png",
+    "128": "/images/notetaking_icon128.png"
+  }
+}
